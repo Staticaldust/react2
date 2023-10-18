@@ -11,5 +11,4 @@ function Text() {
     </div>
   );
 }
-
 export default Text;
